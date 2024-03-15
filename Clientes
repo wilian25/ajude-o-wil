@@ -1,0 +1,21 @@
+class Clientes(){
+    String nome;
+    String idade;
+    String cpf;
+
+    Clientes({this.nome,this.idade,this.cpf})
+
+
+         void CadastroClientes(String adicionar){
+            add.Clientes{stdin.readLineSync()}
+         }
+         void  Deletar(String deletar){
+            remove.Clientes{stdin.readLineSync()}
+         }
+          void BuscarClientes(String Buscar){
+            Buscar.Clientes{stdin.readLineSync()}
+         }
+
+        
+
+}
